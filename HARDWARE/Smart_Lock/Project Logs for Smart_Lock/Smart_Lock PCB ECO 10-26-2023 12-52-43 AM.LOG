@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L? Old Footprint=L-SMD-M-12x10 New Footprint=L-SMD-M-7.3x4.5
+Added Member To Class: ClassName=Smart_Lock Member=Component C? Cap Pol 5mm
+Added Room: Name=Smart_Lock

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Added Member To Class: ClassName=Smart_Lock Member=Component JP3 JP2
+Added Member To Class: ClassName=Smart_Lock Member=Component JP5 JP2
+Added Member To Class: ClassName=Smart_Lock Member=Component  I2C
+Added Member To Class: ClassName=Smart_Lock Member=Component  Keypad
+Added Room: Name=Smart_Lock

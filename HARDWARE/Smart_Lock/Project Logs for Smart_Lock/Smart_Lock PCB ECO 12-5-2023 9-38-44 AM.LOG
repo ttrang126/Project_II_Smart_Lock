@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=JDC-3
+Added Member To Class: ClassName=Smart_Lock Member=Component C3 680uF
+Added Member To Class: ClassName=Smart_Lock Member=Component D1 Diode Zener
+Added Member To Class: ClassName=Smart_Lock Member=Component DIO1 Diode SMD
+Added Member To Class: ClassName=Smart_Lock Member=Component  I2C
+Added Member To Class: ClassName=Smart_Lock Member=Component  RFID
+Added Member To Class: ClassName=Smart_Lock Member=Component  Keypad
+Added Member To Class: ClassName=Smart_Lock Member=Component U1 LM2976
+Added Member To Class: ClassName=Smart_Lock Member=Component U2 LM1117-ADJ
+Added Member To Class: ClassName=Smart_Lock Member=Component U3 CH340C
+Added Member To Class: ClassName=Smart_Lock Member=Component U4 TP4056
+Added Member To Class: ClassName=Smart_Lock Member=Component U5 TP4056
+Added Member To Class: ClassName=Smart_Lock Member=Component U6 TP4056
+Added Member To Class: ClassName=Smart_Lock Member=Component U ESP32-WROOM-32
+Added Room: Name=Smart_Lock

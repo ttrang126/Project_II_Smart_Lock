@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RX0 Pin=U-34
+Added Pin To Net: NetName=TX0 Pin=U-35
+Added Member To Class: ClassName=Smart_Lock Member=Component  I2C
+Added Member To Class: ClassName=Smart_Lock Member=Component  Keypad
+Added Room: Name=Smart_Lock

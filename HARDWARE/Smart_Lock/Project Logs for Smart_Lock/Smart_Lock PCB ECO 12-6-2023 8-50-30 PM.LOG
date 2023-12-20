@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SCL_I2C Pin=-1
+Removed Pin From Net: NetName=SDA_I2C Pin=-2
+Removed Pin From Net: NetName=5V Pin=-3
+Removed Pin From Net: NetName=GND Pin=-4
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=5V Pin=-2
+Added Pin To Net: NetName=SDA_I2C Pin=-3
+Added Pin To Net: NetName=SCL_I2C Pin=-4
+Added Member To Class: ClassName=Smart_Lock Member=Component  I2C
+Added Member To Class: ClassName=Smart_Lock Member=Component  Keypad
+Added Room: Name=Smart_Lock
